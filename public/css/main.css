@@ -1,0 +1,82 @@
+/**  ICONS   **/
+.small-edit-icon{
+    color: green;
+}
+
+.small-edit-icon:hover{
+    color: black;
+}
+
+.big-edit-icon{
+    color: #00b0e8;
+}
+
+.big-edit-icon:hover{
+    color: black;
+    cursor: pointer;
+}
+
+.small-trash-icon{
+    color: red;
+    float: top
+}
+.small-trash-icon:hover{
+    color: black;
+}
+
+.big-arrow-left{
+    font-size: 30px;
+    position: absolute;
+    top: 15px;
+    padding-left: 250px;
+}
+
+.big-arrow-left:hover{
+    font-size: 40px;
+    margin-bottom: 0;
+    top: 10px;
+
+}
+
+
+.project-card-text{
+    text-decoration:none;
+    color: black;
+}
+
+.project-card{
+    box-shadow: 8px 8px 8px #eee;
+}
+
+.project-card:hover {
+    box-shadow: none;
+}
+
+
+
+
+.project-card-text:hover{
+    text-decoration:none;
+    color: black;
+}
+
+.project-card-deadline{
+    float: right;
+    font-size: 13px;
+}
+
+.sprint-card:hover{
+    box-shadow: 1px 1px 10px 1px lightgray;
+}
+
+.scrollable-menu {
+    height: auto;
+    max-height: 200px;
+    overflow-x: hidden;
+    color: black;
+}
+
+.retrospective_table{
+    /*text-align: center;*/
+    border: black 1px solid;
+}
